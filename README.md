@@ -1,52 +1,51 @@
-# 🌲 Forest Keeper – Gra przygodowa w UE5
+# Forest Keeper – Adventure Game in Unreal Engine 5
 
-**Forest Keeper** to mała gra przygodowa tworzona w Unreal Engine 5, której głównym celem jest nauka silnika oraz rozwijanie portfolio do pracy w gamedevie. Gracz wciela się w młodego strażnika lasu, który wykonuje proste zadania eksploracyjne, by przywrócić harmonię magicznej krainie.
+**Forest Keeper** is a small-scale adventure game developed using Unreal Engine 5. The project was created as part of a personal learning journey and is intended to build practical skills in game development and level design. The player takes on the role of a young forest keeper, completing exploration-based tasks to restore balance to a mystical environment.
 
-## 🎮 Założenia projektu
+## Project Overview
 
-- **Silnik:** Unreal Engine 5
-- **Gatunek:** Przygodowa, eksploracyjna (3D, singleplayer)
-- **Widok:** Trzecioosobowy (z wykorzystaniem szablonu UE5 Third Person)
-- **Platforma:** PC
+- **Engine:** Unreal Engine 5  
+- **Genre:** Adventure / Exploration (3D, Singleplayer)  
+- **Perspective:** Third-person (based on the Third Person Template)  
+- **Target Platform:** PC  
 
-## 🧩 Główne funkcje
+## Core Features
 
-- 🌳 Eksploracja leśnej mapy pełnej roślinności i tajemniczych miejsc
-- 🧺 Zbieranie przedmiotów i proste interakcje (system zbierania jagód, kluczy itp.)
-- 🗺️ Wykonywanie zadań od NPC (np. drzewo-mistrz, który daje questy)
-- 🌄 Dynamiczne środowisko (dzień/noc – opcjonalnie)
-- 🧠 Wszystko stworzone w Blueprintach – bez kodu C++
+- Exploration of a forest map rich in natural details and hidden locations  
+- Item collection and basic object interactions (e.g., picking berries, collecting keys)  
+- Simple quest system with NPC interactions  
+- Optional day-night cycle for dynamic environmental effects  
+- Entirely implemented using Blueprint scripting (no C++)
 
-## 🚀 Cel projektu
+## Project Objectives
 
-Projekt służy jako:
-- 🔰 Nauka podstaw Unreal Engine 5 (Bluepriny, level design, interakcje)
-- 🎨 Ćwiczenie kreatywności i projektowania środowisk 3D
+This project is intended to:
 
-## 📌 Roadmap (plan rozwoju)
+- Provide hands-on experience with Unreal Engine 5  
+- Develop foundational knowledge of Blueprints, level design, and interactive systems  
+- Serve as a creative exercise in environmental storytelling and 3D world-building  
 
-- [x] Utworzenie szablonu z Third Person Starter
-- [x] Stworzenie prototypowej mapy leśnej
-- [x] Dodanie jednego NPC z prostym zadaniem
-- [x] System zbierania przedmiotów
-- [ ] System dziennika zadań i UI
-- [ ] Prosty system ekwipunku
-- [ ] Wersja demo do pobrania
+## Development Roadmap
 
-## 📷 Zrzuty ekranu (coming soon)
+- [x] Initial setup using Third Person Starter Template  
+- [x] Prototype forest environment  
+- [x] Basic NPC with a quest  
+- [x] Item collection system  
+- [ ] Quest log and UI  
+- [ ] Basic inventory system  
+- [ ] Demo release (PC)
 
-## 🛠️ Zasoby użyte w projekcie
+## Assets and Resources
 
-- Quixel Megascans (roślinność, podłoże)
-- Starter Content UE5
-- Animacje z Third Person Template
-- [Darmowe assety z Marketplace](https://www.unrealengine.com/marketplace/en-US/free)
+- Quixel Megascans (vegetation, terrain textures)  
+- Unreal Engine 5 Starter Content  
+- Third Person Template animations and meshes  
+- Free assets available through the [Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/free)
 
-## 👨‍💻 Autor projektu
+## Author
 
-Projekt tworzony przez początkującego twórcę gier z pasją do narracji, eksploracji i leśnych klimatów 🌿  
-**Dawid** – student i przyszły game developer 💻🎮
+Developed by **Dawid**, a student and aspiring game developer with a passion for interactive storytelling and immersive natural environments.
 
-## 📄 Licencja
+## License
 
-Ten projekt jest tworzony edukacyjnie i nie przeznaczony do komercyjnej dystrybucji. Wszystkie assety należą do ich właścicieli.
+This project is created for educational and portfolio purposes only. It is not intended for commercial use. All assets remain the property of their respective creators.
