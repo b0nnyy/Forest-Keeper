@@ -22,7 +22,6 @@
 Projekt służy jako:
 - 🔰 Nauka podstaw Unreal Engine 5 (Bluepriny, level design, interakcje)
 - 🎨 Ćwiczenie kreatywności i projektowania środowisk 3D
-- 📁 Wpis do portfolio kandydata do pracy w gamedevie
 
 ## 📌 Roadmap (plan rozwoju)
 
@@ -35,7 +34,6 @@ Projekt służy jako:
 - [ ] Wersja demo do pobrania
 
 ## 📷 Zrzuty ekranu (coming soon)
-*(Tu wstawisz screeny z gry po ukończeniu kilku etapów)*
 
 ## 🛠️ Zasoby użyte w projekcie
 
